@@ -1,0 +1,2 @@
+# afire
+Nftables closed firewall.
